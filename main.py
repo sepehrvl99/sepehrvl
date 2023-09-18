@@ -40,5 +40,4 @@ def submit_form():
         return 'Somthing went wrong!'
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+
